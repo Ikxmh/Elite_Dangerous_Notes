@@ -1,7 +1,7 @@
 # README
 
 o7 CMDRS! I HOPE Y'ALL ARE DOING WELL--IF NOT, I WISH THE BEST DAY FOR Y'ALL THEN!                                                              
-BUT YES, THIS GITHUB REPOSITORY IS A PLACE WHERE I KEEP MY NOTES FOR **ELITE DANGEROUS** SUCH AS SHIP'S SPECS TO INSTRUCTIONS.      
+BUT YES, THIS GITHUB REPOSITORY IS A PLACE WHERE I KEEP MY NOTES FOR **ELITE DANGEROUS** RANGING FROM SHIP'S SPECS TO INSTRUCTIONS.      
                                                                                                                                 
 IT'S MEANT FOR ME, BUT I ALSO HOPE OTHERS CAN BENEFIT IN READING THESE FILES.                                                   
 I WILL KEEP ADDING/UPDATING INFORMATION AS I GAIN MORE EXPERIENCE.                                                              
